@@ -5,4 +5,4 @@ require_relative '../lib/move.rb'
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
-board= Array.new
+puts "Where would you like to go?"
